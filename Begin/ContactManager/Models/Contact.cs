@@ -13,4 +13,5 @@ namespace ContactManager.Models
         {
             get; set;
         }
+    }
 }
